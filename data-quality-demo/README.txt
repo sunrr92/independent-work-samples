@@ -49,7 +49,11 @@ With an existing Node.js 18+ runtime, run from this directory:
 Tests execute the SAME core.js used in the browser: quoting/line positions, malformed
 input, missing/invalid fields, duplicate handling, integer cents, injection-safe CSV,
 unmodified JSON evidence, file/row limits and independent fixture totals.
-Browser visual and interaction acceptance is a separate check.
+Browser acceptance passed on desktop and at a 390px mobile breakpoint. A separate
+seven-record file imported as 3 clean + 2 review + 2 invalid, valid net 22.10.
+The three actual browser downloads were inspected; malformed import preserved the
+previous dataset. The public HTTPS demonstration was also loaded and checked.
 
 Files: dist/index.html, dist/core.js, dist/app.js, core.test.cjs, README.txt.
-Local-only. No Sites registration, deployment, account or purchase was performed.
+Static demonstration: open locally or through the public technical portfolio.
+No account, purchase, Sites registration or connected processing service is required.

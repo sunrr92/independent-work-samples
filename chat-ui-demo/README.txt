@@ -19,5 +19,7 @@ are sent or saved. There is no AI backend, authentication, analytics or live sup
 Animations respect prefers-reduced-motion. Controls support keyboard navigation.
 
 Source: one self-contained HTML file with CSS, JavaScript and original inline SVG.
-This folder contains only the current page and this short description. No deployment
-or Sites registration has been performed. Browser/device acceptance is a separate check.
+This static sample can be opened locally or through the public technical portfolio.
+Desktop (1440 x 900) and mobile (390 x 844) views were checked in a browser, including
+themes, sending, reset, reminder state, the mobile drawer and the information dialog.
+No account, paid hosting, Sites registration or service integration is required.

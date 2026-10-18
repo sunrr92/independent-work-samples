@@ -1,0 +1,33 @@
+THE MIRROR THEY LEFT IN SPACE
+Independent original portfolio sample, not client work.
+Format: documentary narration excerpt; approximately two minutes.
+Research notes and primary-source links: facts.json.
+
+[VISUAL: Hubble above Earth. Cut to a diagram of the primary mirror.]
+
+NARRATION
+In 1993, astronauts flew to a telescope whose main mirror was the wrong shape. They would leave that mirror exactly where it was.
+
+Three years earlier, Hubble had launched with a promise: a view of the universe beyond the distorting effects of Earth's atmosphere. Then its images arrived, and the details astronomers wanted were blurred.
+
+An investigation traced the problem back to the ground. A device used to test the mirror had been set up incorrectly. The mirror had been polished against a faulty reference. Near its outer edge, it was too flat.
+
+That changed the path of the light. Rays arriving at different parts of the mirror came to focus in different places. Astronomers call the defect spherical aberration. Bringing an image into focus was no longer a matter of simply turning a knob.
+
+[VISUAL: Original animation of light rays missing a shared focus. Add a second optical surface; the rays converge.]
+
+Engineers could describe the error precisely. That gave them a way to work around it: change the light's path before it reached the detectors.
+
+The repair took two forms. COSTAR placed corrective mirrors in the light paths feeding three existing science instruments. A replacement camera, the Wide Field and Planetary Camera 2, carried its own correction inside.
+
+In December 1993, the shuttle crew installed both. Across five successive spacewalks, astronauts also worked on Hubble's other systems. The new optics still had to prove themselves through the images they sent home.
+
+[VISUAL: Verified before-and-after views of galaxy M100; hold the comparison long enough to read.]
+
+The difference became visible in the galaxy's structure: details that had dissolved into blur were now distinct.
+
+The flawed mirror remained aboard. The repair succeeded because the team understood the failure well enough to build its correction around it.
+
+END OF EXCERPT
+
+Production note: Visual directions are suggestions, not delivered footage or a claim that any third-party media has been licensed. A simple ray diagram would be newly drawn; any archival image would be checked for its individual credit and use conditions before production.

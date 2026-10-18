@@ -1,0 +1,77 @@
+{
+  "title": "The Mirror They Left in Space",
+  "status": "Independent original portfolio sample, not client work",
+  "checked_date": "2026-10-19",
+  "scope": "Short documentary excerpt; no commissioned topic or supplied client draft used",
+  "sources": {
+    "NASA_MIRROR": {
+      "title": "Hubble's Mirror Flaw",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/mission/hubble/observatory/design/optics/hubbles-mirror-flaw/"
+    },
+    "JPL_REPAIR": {
+      "title": "The Camera That Saved Hubble",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "url": "https://www.jpl.nasa.gov/news/the-camera-that-saved-hubble/"
+    },
+    "ESA_SM1": {
+      "title": "Servicing Mission 1",
+      "publisher": "ESA/Hubble",
+      "url": "https://esahubble.org/about/history/servicing_mission_1/"
+    },
+    "NASA_HISTORY": {
+      "title": "A Brief History of the Hubble Space Telescope",
+      "publisher": "NASA History",
+      "url": "https://www.nasa.gov/history/hubble/"
+    }
+  },
+  "claims": [
+    {
+      "id": "F1",
+      "claim": "Hubble launched in April 1990, above Earth's distorting atmosphere.",
+      "source_ids": ["JPL_REPAIR", "NASA_HISTORY"],
+      "result": "Verified. Launch and orbital deployment are separate events; the narration gives only the year, 1990."
+    },
+    {
+      "id": "F2",
+      "claim": "Incorrect mirror-test setup led to a primary mirror too flat near its outer edge.",
+      "source_ids": ["NASA_MIRROR"],
+      "result": "Verified. No micron measurement or unsupported blame attribution is included."
+    },
+    {
+      "id": "F3",
+      "claim": "Spherical aberration made light from different mirror regions focus at different locations.",
+      "source_ids": ["NASA_MIRROR", "JPL_REPAIR"],
+      "result": "Verified. The focus-knob sentence is an explanatory simplification of a shape error."
+    },
+    {
+      "id": "F4",
+      "claim": "The solution compensated optically rather than replacing the primary mirror.",
+      "source_ids": ["JPL_REPAIR"],
+      "result": "Verified. The opening and ending refer specifically to the primary mirror."
+    },
+    {
+      "id": "F5",
+      "claim": "COSTAR corrected three existing instruments; WFPC2 had its own internal corrective optics.",
+      "source_ids": ["ESA_SM1", "NASA_MIRROR", "JPL_REPAIR"],
+      "result": "Verified. COSTAR did not supply WFPC2's correction."
+    },
+    {
+      "id": "F6",
+      "claim": "Both systems were installed in December 1993, during a mission with five consecutive spacewalks and other maintenance.",
+      "source_ids": ["NASA_HISTORY", "ESA_SM1"],
+      "result": "Verified. Five spacewalks describes the servicing mission overall, not five walks solely for optics."
+    },
+    {
+      "id": "F7",
+      "claim": "Before-and-after M100 images demonstrate improved detail after the repair.",
+      "source_ids": ["NASA_MIRROR", "JPL_REPAIR"],
+      "result": "Verified in official image captions. Use a WFPC/WFPC2 comparison, not an unrelated modern image."
+    }
+  ],
+  "editorial_notes": [
+    "Narrative transitions and the closing interpretation are original framing, not quotations or attributed thoughts.",
+    "No invented astronaut dialogue, private reactions, client credits, audience figures, or performance claims.",
+    "This is a script sample only; it does not supply or license archival footage."
+  ]
+}
